@@ -1,6 +1,6 @@
 <?php
 
-$host = "localhost:4306";
+$host = "localhost";
 $user = "root";
 $pass = "";
 $db   = "business_rating_system";
